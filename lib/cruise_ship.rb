@@ -9,5 +9,7 @@
 def select_winner(passengers)
   # add the code snippet here!
   passengers.each do |key , value|
-    winner
+    if key.last == "a" && value.first == "A"
+      puts value
+    end
 end
