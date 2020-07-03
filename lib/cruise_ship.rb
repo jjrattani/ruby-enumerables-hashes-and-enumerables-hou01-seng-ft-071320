@@ -8,5 +8,6 @@
 
 def select_winner(passengers)
   # add the code snippet here!
-  passengers.each do |k
+  passengers.each do |key , value|
+    winner
 end
