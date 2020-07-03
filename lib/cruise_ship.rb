@@ -12,4 +12,5 @@ def select_winner(passengers)
     if key.last == "a" && value.first == "A"
       puts value
     end
+  end
 end
